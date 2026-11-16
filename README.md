@@ -7,14 +7,23 @@
 </a>
 <img src="https://img.shields.io/badge/Статус-Открыт_к_проектам-00c853?style=flat-square" />
 
+<br/><br/>
+
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="380" alt="coding" />
+
 </div>
 
 ## 👋 Обо мне
 
+<img align="right" width="280" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="programmer" />
+
 - 💻 **Web Developer** — Frontend & Backend
 - 🎯 Создаю быстрые, удобные и красивые веб-приложения
+- 🌱 Изучаю **Next.js, NestJS, Docker**
 - 📫 Связаться: **rahmonovsaid328@gmail.com**
 - ⚡ Верю, что хороший код — это баланс между производительностью и удобством
+
+<br clear="right"/>
 
 ## 🧰 Мой стек
 
@@ -47,6 +56,8 @@
 
 **🛒 Shop**
 
+<img src="https://media.giphy.com/media/3o7abKhOpu0NwenH3O/giphy.gif" width="160" alt="shop" />
+
 Интернет-магазин на Next.js + NestJS
 
 <a href="ССЫЛКА">Демо</a> · <a href="ССЫЛКА">Код</a>
@@ -55,6 +66,8 @@
 <td width="33%" align="center">
 
 **📝 Tasks**
+
+<img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="160" alt="tasks" />
 
 Менеджер задач на React + Socket.io
 
@@ -65,6 +78,8 @@
 
 **🎨 Portfolio**
 
+<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="160" alt="code" />
+
 Портфолио на Vite + Tailwind
 
 <a href="ССЫЛКА">Демо</a> · <a href="ССЫЛКА">Код</a>
@@ -72,6 +87,16 @@
 </td>
 </tr>
 </table>
+
+## 🚀 Что сейчас в работе
+
+<div align="center">
+
+<img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="120" alt="rocket" />
+
+<em>Запускаю новые проекты и прокачиваю навыки каждый день 🔥</em>
+
+</div>
 
 ## 📫 Контакты
 
@@ -86,6 +111,10 @@
 <a href="https://github.com/ВАШ_USERNAME">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
+
+<br/><br/>
+
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60" alt="wave" />
 
 </div>
 
